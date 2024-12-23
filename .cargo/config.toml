@@ -1,0 +1,5 @@
+[unstable]
+build-std-features = [""compiler_builtins-mem"]
+
+[build]
+target = "x86_64-os.json"
